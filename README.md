@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://s6.ezgif.com/tmp/ezgif-6-f3d7f7f304.gif" alt="">
+</p>
+
 ## ― Hello, my name is Aillen ♡
 
 I'm based in Buenos Aires, Argentina, fueled by a passion for **cybersecurity** and **programming**. Currently I work as a quality analyst, but my heart is set on becoming a cybersecurity analyst or programmer. I have been certified in cybersecurity and Python, and I'm currently diving into full-stack development.
