@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s6.ezgif.com/tmp/ezgif-6-5e2002cd9f.gif" alt="">
+  <img src="./header.gif" alt="">
 </p>
 
 ## ― Hello, my name is Aillen ♡
