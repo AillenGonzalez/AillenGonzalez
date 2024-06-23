@@ -1,6 +1,6 @@
-## ― Hey y'all, my name is Aillen ♡
+## ― Hello, my name is Aillen ♡
 
-I'm based in Buenos Aires, Argentina, fueled by a passion for **cybersecurity** and **programming**. By day, I work as a quality analyst, but my heart is set on becoming a cybersecurity analyst or programmer. I've already earned certifications in cybersecurity and Python, and I'm currently diving into full-stack development.
+I'm based in Buenos Aires, Argentina, fueled by a passion for **cybersecurity** and **programming**. Currently I work as a quality analyst, but my heart is set on becoming a cybersecurity analyst or programmer. I have been certified in cybersecurity and Python, and I'm currently diving into full-stack development.
 
 ## 🌸 Here’s a glimpse into my world
 
@@ -17,7 +17,7 @@ I'm based in Buenos Aires, Argentina, fueled by a passion for **cybersecurity** 
 • **Hardware Enthusiast**: I enjoy building and dismantling computers, understanding hardware intricacies.
 
 ## 🌺 Fun Activities
-In my downtime, you’ll find me creating digital art and designing websites for personal projects. Check them out on my GitHub!
+In my freetime, you’ll find me creating digital art and designing websites for personal projects. Check them out on my GitHub!
 
 ## 🌷 Future Goals
 Next up, I aim to pursue a degree in Systems Engineering to deepen my knowledge and skills further.
