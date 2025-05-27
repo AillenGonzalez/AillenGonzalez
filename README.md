@@ -4,19 +4,17 @@
 
 ## ― Hello, my name is Aillen ♡
 
-I'm based in Buenos Aires, Argentina, fueled by a passion for **programming**. Currently I work as a quality analyst, but my heart is set on becoming a programmer. I have been certified in cybersecurity and Python, and I'm currently diving into full-stack development.
+I'm based in Buenos Aires, Argentina, and I'm currently transitioning into the field of cybersecurity. I work as a Quality Analyst and am passionate about digital protection, ethical hacking, and strengthening systems against vulnerabilities.
 
 ## 🌸 Here’s a glimpse into my world
 
-• **Python Programmer**: Proficient in Python, using it for various projects and eager to learn more.
+• **Cybersecurity Enthusiast**: Currently studying Information Security and constantly learning through platforms like Cisco and others.
 
-• **Full-Stack Learner**: Embracing full-stack development to broaden my skills and tackle diverse challenges.
+• **Certified Learner**: I hold certifications in cybersecurity, web development, JavaScript, and Python — which serve as foundations for understanding system security.
 
-• **Creative Designer**: Since age 15, I've been crafting web designs, starting with Tumblr templates.
+• **Analytical Mindset**: With a strong background in customer service and quality analysis, I bring a detail-oriented and problem-solving approach to every task.
 
-• **Gamer by Heart**: Avid gamer, constantly exploring the latest in gaming technology and trends.
-
-• **Hardware Enthusiast**: I enjoy building and dismantling computers, understanding hardware intricacies.
+• **Hardware & Tech Lover**: I enjoy exploring computer hardware and understanding the building blocks of tech systems.
 
 ## 🌺 Fun Activities
 In my freetime, you’ll find me creating digital art and designing websites for personal projects. Check them out on my GitHub!
