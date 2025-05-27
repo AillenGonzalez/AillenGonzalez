@@ -8,7 +8,7 @@ I'm based in Buenos Aires, Argentina, and I'm currently transitioning into the f
 
 ## 🌸 Here’s a glimpse into my world
 
-• **Cybersecurity Enthusiast**: Currently studying Information Security and constantly learning through platforms like Cisco and others.
+• **Cybersecurity Enthusiast**: I'm studying Information Security and currently pursuing certifications from Cisco, Harvard, and Google (via Coursera), while also studying networking at UTN.
 
 • **Certified Learner**: I hold certifications in cybersecurity, web development, JavaScript, and Python — which serve as foundations for understanding system security.
 
@@ -16,8 +16,10 @@ I'm based in Buenos Aires, Argentina, and I'm currently transitioning into the f
 
 • **Hardware & Tech Lover**: I enjoy exploring computer hardware and understanding the building blocks of tech systems.
 
+• **Lifelong Learner**: I'm also studying English at an academy to strengthen my access to global resources and opportunities in cybersecurity.
+
 ## 🌺 Fun Activities
-In my freetime, you’ll find me creating digital art and designing websites for personal projects. Check them out on my GitHub!
+In my free time, I enjoy gaming, creating digital art, and reading — especially thrillers, detective stories, horror, and science books.
 
 ## 🌷 Future Goals
-Next up, I aim to pursue a degree in Systems Engineering to deepen my knowledge and skills further.
+My goal is to specialize in cybersecurity, focusing on Red Team operations, penetration testing, and vulnerability analysis. I'm pursuing a degree in Information Security and plan to continue with a Bachelor's degree afterward.
